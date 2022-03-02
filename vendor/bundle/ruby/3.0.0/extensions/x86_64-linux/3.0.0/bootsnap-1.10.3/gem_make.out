@@ -1,0 +1,15 @@
+current directory: /home/ophelie-gaudin/dossierlinux/THP/J112_React_Ruby_API/react_crud/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.3/ext/bootsnap
+/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220301-1227-od5um7.rb extconf.rb
+creating Makefile
+
+current directory: /home/ophelie-gaudin/dossierlinux/THP/J112_React_Ruby_API/react_crud/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.3/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/ophelie-gaudin/dossierlinux/THP/J112_React_Ruby_API/react_crud/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.3/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/ophelie-gaudin/dossierlinux/THP/J112_React_Ruby_API/react_crud/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.3/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20220301-1227-5lckvt/bootsnap

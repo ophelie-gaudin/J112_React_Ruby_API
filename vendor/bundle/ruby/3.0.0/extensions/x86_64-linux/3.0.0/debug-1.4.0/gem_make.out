@@ -1,0 +1,16 @@
+current directory: /home/ophelie-gaudin/dossierlinux/THP/J112_React_Ruby_API/react_crud/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
+/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220301-1227-h3o086.rb extconf.rb
+creating Makefile
+
+current directory: /home/ophelie-gaudin/dossierlinux/THP/J112_React_Ruby_API/react_crud/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
+make "DESTDIR=" clean
+
+current directory: /home/ophelie-gaudin/dossierlinux/THP/J112_React_Ruby_API/react_crud/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/ophelie-gaudin/dossierlinux/THP/J112_React_Ruby_API/react_crud/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 debug.so ./.gem.20220301-1227-3iokqq/debug
